@@ -1,5 +1,12 @@
 # NetPractice
 
+## Learning Sources :
+
+---
+
+Network Fundamentals : ![PlayList](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+Subneting Mastery : ![PlayList](https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)
+
 ## Some definitions :
 
 ---

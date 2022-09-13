@@ -4,8 +4,8 @@
 
 ---
 
-Network Fundamentals : ![PlayList](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
-Subneting Mastery : ![PlayList](https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)
+Network Fundamentals : <a href="https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi">PlayList</a><br>
+Subneting Mastery : <a href="https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE">PlayList</a>
 
 ## Some definitions :
 
